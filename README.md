@@ -1,3 +1,3 @@
 # my first project
 
-i love potatoes
+i love potato
